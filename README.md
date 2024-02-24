@@ -119,46 +119,7 @@
 | _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                        | Encrypt or decrypt shell script and compile python scripts      |
 | _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_                | Expose locally hosted website into all over internet.           |
 
-<h4 align="center">All of these are open source!</h4>
 
-  <h3>The best profile readme generator you will find!</h3>
-</div>
-
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/Ranzyboi/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/Ranzyboi/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/Ranzyboi/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/Ranzyboi/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/Ranzyboi/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-</p>
-
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/Ranzyboi/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
 
 ## :dart: About ##
 
