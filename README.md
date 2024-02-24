@@ -29,15 +29,15 @@
   </a>
 
   <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+    <img src="https://img.shields.io/github/stars/Ranzyboi/profile-readme-generator?" alt="Badge showing the total of project stars"/>
   </a>
 
   <a href="https://github.com/Ranzyboi/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+    <img src="https://img.shields.io/github/commit-activity/m/Ranzyboi/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
   </a>
 
   <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+    <img src="https://img.shields.io/github/last-commit/Ranzyboi/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
   </a>
 
   <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
@@ -65,13 +65,6 @@
 ## :dart: About ##
 
 Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
 
 <p align="center">
 <i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
@@ -144,20 +137,13 @@ $ yarn dev
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :video_game: Scripts
-
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
 
 ## :memo: License ##
 
 This project is licensed under the FEUTECH License. For more details, please refer to the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Ranz Mailed</a>
 
 &#xa0;
 
